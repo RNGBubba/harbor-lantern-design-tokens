@@ -36,3 +36,7 @@ GitHub
 New public repository: https://github.com/RNGBubba/harbor-lantern-design-tokens
 The receipt's source commit is `1d16846facb7ead324086c4528cbea2df6d04256`.
 Verified remote tree contains `DESIGN.md`, `README.md`, `PRICE.md`, and `LICENSE`; this BET report is included in the published repository.
+
+Agent path note
+---------------
+No Project Forge enqueue command or endpoint was present in the assigned workspace, and no MCP server is configured in this session. The artifact path was completed through the available authenticated `gh` CLI plus the local DoneMeans receipt tool; a Forge enqueue receipt is therefore a named gap, not claimed.
