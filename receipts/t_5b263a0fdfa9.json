@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "ticket_id": "t_5b263a0fdfa9",
+  "code_sha": "1d16846facb7ead324086c4528cbea2df6d04256",
+  "command": "python -c \"from pathlib import Path; t=Path(\\\"DESIGN.md\\\").read_text(); assert t.count(\\\"```yaml\\\") == 9 and \\\"Accessibility checklist\\\" in t and \\\"Handoff checklist\\\" in t\"",
+  "exit_code": 0,
+  "artifact": {
+    "path": "DESIGN.md",
+    "sha256": "cf85a73d897fa5b44f56171d52873181d38dc1606b4a18d48baffd39475e5523",
+    "bytes": 8650
+  },
+  "recorded_at": "2026-09-20T23:54:00+00:00"
+}
